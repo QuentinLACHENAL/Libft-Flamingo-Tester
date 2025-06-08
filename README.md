@@ -65,7 +65,7 @@ You must have a complete `libft` project, including its own `Makefile` that can 
 
 Your project should be organized as follows for the tester to work correctly:
 
-
+<pre>
 .
 ├── libft/
 │   ├── ft_.c
@@ -75,7 +75,7 @@ Your project should be organized as follows for the tester to work correctly:
 │
 ├── main.c              # The Flamingo Tester source
 └── Makefile            # The Flamingo Tester Makefile
-
+</pre>
 
 ### Installation & Usage
 
