@@ -135,3 +135,14 @@ The Flamingo Tester covers the entire scope of the `libft` subject.
 | ft_lstlast     | ft_lstadd_back  | ft_lstdelone |
 | ft_lstclear    | ft_lstiter      | ft_lstmap  |
 
+### VALGRIND TEST:
+
+To check for errors with valgrind, use this command:
+
+<pre>
+valgrind --leak-check=full ./test_program
+</pre>
+
+###
+
+Happy 42ing!
