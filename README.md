@@ -17,8 +17,6 @@
                                  `                      || ( c      `
                                   `        ___._ __  ___I|__`--__._ __  _
                                          "~     ~  "~  ""   ~~"    ~  ~~
-                       
-		                                          LIBFT FLAMINGO TESTER - QLACHENA
   </pre>
   <div align="center">
   <h1 style="border-bottom: none;">🦩 Flamingo Libft Tester 🦩</h1>
